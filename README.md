@@ -26,3 +26,13 @@
 - Write feature specs (use VCR)
 
 And again: Write **all** the specs first!
+
+## Links
+
+- Transport API: http://sbb.xiala.net
+- Docs
+  - RSpec: https://www.relishapp.com/rspec/
+  - VCR: https://www.relishapp.com/vcr/
+  - Factory Girl: https://github.com/thoughtbot/factory_girl/blob/master/GETTING_STARTED.md
+  - Capybara: https://github.com/jnicklas/capybara
+  - Shoulda Matchers: https://github.com/thoughtbot/shoulda-matchers
