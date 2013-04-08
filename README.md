@@ -19,13 +19,13 @@
 ## Constraints
 
 - Spec first!
-- Abstract the API with tested models (use factories)
+- Abstract the API with tested models (use factories; model entities: Station, Board, Connection)
 - Write controller specs (use factories)
 - Write view specs (use factories)
 - Write request specs (use VCR)
 - Write feature specs (use VCR)
 
-And again: Write **all** the specs first!
+And again: Write **all** the specs first with factories!
 
 ## Links
 
